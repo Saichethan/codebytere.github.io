@@ -1,8 +1,8 @@
 {
 	"about": "<p>I'm Sophomore year Computer Science Undergrauate at IIIT BH!<br> <br> Passionate about Artificial Intelligence, running, exploring, Naruto, and learning any and everything that happens to come my way. <br> <br> I am currently working to publish a research paper on Image to Image Translation 😀</p>",
 	"contact": "<ul class='contact'><li><a class='blue' target='_blank' href='https://github.com/Saichethan'>GitHub</a></li><li><a class='blue' target='_blank' href='https://www.linkedin.com/in/saichethanreddymiriyala'>LinkedIn</a></li><li><a class='blue' target='_blank' href='https://www.twitter.com/SaichethanRedd'>Twitter</a></li><li><a class='blue' target='_blank' href='https://www.facebook.com/SaichethanReddyMiriyal'>Facebook</a></li></ul>",
-	"resume": "<a class='blue' target='_blank' href='data/csv-resume.pdf'>View My Resume</a>",
-	"proficient": "<ul><li>Python</li><li>Javascript</li><li>C</li><li>HTML5/CSS3</li><li>React</li><li>GraphQL</li></ul>",
+	"resume": "<a class='blue' target='_blank' href='data/resume.pdf'>View My Resume</a>",
+	"proficient": "<ul><li>Python</li><li>Javascript</li><li>C/C++</li><li>HTML5/CSS3</li><li>React</li><li>GraphQL</li></ul>",
 	"familiar": "<ul><li>C</li><li>Data Analysis</li></ul>",
 	"learning": "<ul><li>Machine Learning</li></ul>",
 	
